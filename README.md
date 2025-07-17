@@ -44,5 +44,6 @@ Hi there! I'm **Joshua Oluwadare Ogunsola**, also known as **Engineerjosh7**. Iâ
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-ogunsola)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joshua-ogunsola/)
+](https://linkedin.com/in/joshua-ogunsola)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF)](mailto:joshusogunsola7@gmail.com)
